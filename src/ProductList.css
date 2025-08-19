@@ -58,6 +58,18 @@ body {
     align-items: center;
     justify-content: center;
 }
+.product-category {
+    margin-inline:auto;
+    margin-block: 20px;
+    width: fit-content;
+    text-align: center;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.product-cost {
+    color: red;
+}
 
 /* Product Card */
 .product-card {
